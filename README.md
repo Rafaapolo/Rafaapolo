@@ -17,7 +17,7 @@
 - Atualmente estudando Python, TypeScript e MySQL
 - Interessado em games e cultura geek
 
-[e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=lemesrafael55@gmail.com)
+[e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=lemesrafael54@gmail.com)
 ---
 
 ### 🚀 Projetos em destaque
