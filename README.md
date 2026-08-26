@@ -7,7 +7,7 @@
 
 <br>
 
-# Rafael Lemes 🫣
+# Rafael Lemes 👻
 
 *Estudando Desenvolvimento Web*
 
