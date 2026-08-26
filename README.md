@@ -16,7 +16,7 @@
 - Gosto de construir projetos interativos e criativos no tempo livre
 - Interessado em games e cultura geek
 
-[e-mail](mailto:lemesrafael55@gmail.com)
+[e-mail](mailto:lemesrafael54@gmail.com)
 
 ---
 
