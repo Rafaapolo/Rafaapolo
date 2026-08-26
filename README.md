@@ -7,7 +7,7 @@
 
 <br>
 
-# Rafael Lemes
+# Rafael Lemes 🫣
 
 *Estudando Desenvolvimento Web*
 
@@ -15,3 +15,5 @@
 - Em formação como desenvolvedor front-end, sempre em busca de aprender mais
 - Gosto de construir projetos interativos e criativos no tempo livre
 - Interessado em games e cultura geek
+
+[e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=lemesrafael55@gmail.com)
