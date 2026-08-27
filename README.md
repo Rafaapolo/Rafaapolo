@@ -11,7 +11,7 @@
   <img src="https://media1.tenor.com/m/8RmP0khd0egAAAAd/canute-vinland-saga.gif" width="500" alt="Canute - Vinland Saga" />
 </p>
 
-# Rafael Lemes 👻
+# Rafael Lemes 🕷️
 
 *Estudando Desenvolvimento Web*
 
