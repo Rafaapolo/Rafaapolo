@@ -16,7 +16,7 @@
 *Estudando Desenvolvimento Web*
 
 - 19 anos
-- Estudando Engenharia de Software 
+- Cursando Engenharia de Software 
 - Em formação como desenvolvedor front-end, sempre em busca de aprender mais
 - Gosto de construir projetos interativos e criativos no tempo livre
 - Atualmente estudando Python, TypeScript e MySQL
