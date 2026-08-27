@@ -48,11 +48,7 @@ Simulação interativa do sistema solar, com controle de velocidade, tamanho e d
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" alt="HTML, CSS, JavaScript, GitHub, VS Code e Figma" />
 </p>
 
-![Estudando](https://img.shields.io/badge/Estudando-Node.js%20%7C%20Python%20%7C%20TypeScript%20%7C%20MySQL-2b2b2b?style=flat-square)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,ts,mysql" alt="Node.js, Python, TypeScript e MySQL" />
-</p>
 
 ### 📊 Estatísticas
 
