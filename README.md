@@ -26,6 +26,8 @@
 ---
 
 ### 🚀 Projetos em destaque
+**[Terra 3D](https://github.com/Rafaapolo/Terra-3D)** · [Ver demo](https://rafaapolo.github.io/Terra-3D/)
+Modelo 3D interativo da Terra, com foco em texturas, iluminação e rotação, usando HTML, CSS e JavaScript.
 
 **[Landing Page — Loja de Suco de Frutas](https://github.com/Rafaapolo/Landing-page-loja-de-suco-de-frutas-)** · [Ver demo](https://rafaapolo.github.io/Landing-page-loja-de-suco-de-frutas-/)
 Landing page criativa para marca fictícia de sucos, com foco em layout, animações CSS e interatividade em JS.
