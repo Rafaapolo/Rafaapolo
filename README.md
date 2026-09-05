@@ -44,7 +44,7 @@ Simulação interativa do sistema solar, com controle de velocidade, tamanho e d
 ---
 
 
-![Languages](https://img.shields.io/badge/Languages%3A-HTML%20%7C%20CSS%20%7C%20JavaScript-2b2b2b?style=flat-square)
+![Linguagens](https://img.shields.io/badge/Languages%3A-HTML%20%7C%20CSS%20%7C%20JavaScript-2b2b2b?style=flat-square)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" alt="HTML, CSS, JavaScript, GitHub, VS Code e Figma" />
